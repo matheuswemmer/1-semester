@@ -1,6 +1,6 @@
-# 1-semester
+# 1° Semestre
 Primeiro semestre de ciência da computação
 
-Java e primeiras impressões
+# Java e primeiras impressões
 - 🗂️ Algoritmos
 
